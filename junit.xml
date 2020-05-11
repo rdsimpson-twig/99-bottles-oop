@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="8" failures="0" time="1.641">
+  <testsuite name="Bottles" errors="0" failures="0" skipped="0" timestamp="2020-05-11T12:11:13" time="1.249" tests="8">
+    <testcase classname="Bottles verse gets the first verse right" name="Bottles verse gets the first verse right" time="0.002">
+    </testcase>
+    <testcase classname="Bottles verse gets the second verse right" name="Bottles verse gets the second verse right" time="0">
+    </testcase>
+    <testcase classname="Bottles verse gets the verse right with 2 left" name="Bottles verse gets the verse right with 2 left" time="0">
+    </testcase>
+    <testcase classname="Bottles verse gets the verse right with 1 left" name="Bottles verse gets the verse right with 1 left" time="0.001">
+    </testcase>
+    <testcase classname="Bottles verse gets the verse right with 0 left" name="Bottles verse gets the verse right with 0 left" time="0">
+    </testcase>
+    <testcase classname="Bottles verse creates multiple verses" name="Bottles verse creates multiple verses" time="0">
+    </testcase>
+    <testcase classname="Bottles verse creates the last verses" name="Bottles verse creates the last verses" time="0">
+    </testcase>
+    <testcase classname="Bottles verse creates the full song" name="Bottles verse creates the full song" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
